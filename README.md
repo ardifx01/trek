@@ -13,7 +13,9 @@ It lets you **explore, create, and manage files/folders** in a beautiful tree vi
 ---
 
 ## 📸 Preview
+
 https://github.com/user-attachments/assets/767aa17c-06fc-47e4-8717-da66d84f9d7d
+
 ---
 
 ## 🚀 Installation
