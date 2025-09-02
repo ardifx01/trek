@@ -1,4 +1,4 @@
-# trek 🌳
+# trek (Tree + Explorer) 🌳
 
 **trek** is a terminal user interface (TUI) app built with [Go](https://go.dev/) and [tview](https://github.com/rivo/tview).  
 It lets you **explore, create, and manage files/folders** in a beautiful tree view directly from your terminal.  
