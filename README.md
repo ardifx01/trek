@@ -23,6 +23,6 @@ https://github.com/user-attachments/assets/767aa17c-06fc-47e4-8717-da66d84f9d7d
 Make sure you have Go installed (**1.20+ recommended**).
 
 ```bash
-git clone https://github.com/yourusername/trek.git
+git clone https://github.com/ardifx01/trek.git
 cd trek
 go run main.go
